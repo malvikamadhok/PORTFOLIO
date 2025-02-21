@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../prtml"
+		},
+		{
+			"path": "../CODING"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prtml"
+	}
+}
